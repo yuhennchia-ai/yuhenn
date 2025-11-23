@@ -20,6 +20,12 @@
 
 - Universiti Teknologi Malaysia <br> &nbsp;&nbsp;&nbsp;&nbsp;- Bachelor of Computer Science (Data Engineering) </p>
 - UTMSPACE <br> &nbsp;&nbsp;&nbsp;&nbsp;- Foundation Programme (Physical Science) </p>
--SMK ST.Andrew Muar <br> &nbsp;&nbsp;&nbsp;&nbsp;- SPM </p>
+-SMK ST.Andrew Muar <br> &nbsp;&nbsp;&nbsp;&nbsp;- SPM 8As</p>
 
 ###
+
+<h2 align="left">Website</h2>
+
+###
+
+- LinkedIn: https://www.linkedin.com/in/chia-yu-henn-52055239a 
